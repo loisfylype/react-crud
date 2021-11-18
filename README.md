@@ -1,5 +1,5 @@
 # projeto-crud
- Projeto de um site que controla um banco de dados de usuarios com as operações basicas usando React, Bootstrap e axios.
+ Projeto de um site que controla um banco de dados de usuarios com as operações basicas usando React, Bootstrap e Axios.
 
 # Rodando os servidores:
 Entre na pasta backend e inicie o Json server usando o npm start .
